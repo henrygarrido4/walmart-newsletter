@@ -1,0 +1,521 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * { box-sizing: border-box; } @media (max-width: 490px) { .menu {
+      font-size: 12px !important; } }
+    </mj-style>
+    <mj-style inline="inline">
+      span { font-weight: bold; } .footer__link { color: #000; } .deals {
+      border-bottom: 1px solid #f2f2f2; } .menu__size { max-width: 520px } .menu
+      { text-decoration: none; color: #414042; font-size: 16px; font-weight:
+      normal; } .account { text-decoration: none; color: #000; }
+    </mj-style>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f2f2f2">
+    <!-- #TOP-OF-HEADER -->
+    <mj-wrapper padding="0px">
+      <mj-section padding="0px" background-color="#ffffff">
+        <mj-group>
+          <mj-column>
+            <mj-text padding="10px 0px 5px 10px" font-size="10px">
+              The party starts with up to 35% off.
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text align="right" padding="10px 10px 5px 0px" font-size="10px">
+              <a
+                class="account"
+                href="https://www.walmart.com/account/login?adid=kmw7y2guyjukjkdb4ho5k&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+                >My account</a
+              >
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #HEADER -->
+    <mj-section padding="0px">
+      <mj-column background-color="#0071dc">
+        <mj-image
+          padding="0px"
+          href="https://www.walmart.com/?adid=hyhhny9gpjys9s3i11zf7&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+          src="https://exclusivecutz.com/walmart/logo.png"
+          alt="walmart logo"
+          height="100px"
+          width="100px"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #MENU -->
+    <mj-wrapper padding="0px">
+      <mj-section padding="10px 0px 10px 0px" background-color="#fff">
+        <mj-group css-class="menu__size">
+          <mj-column>
+            <mj-text padding="10px 0" align="center">
+              <a
+                class="menu"
+                href="https://www.walmart.com/cp/electronics/3944?adid=c5hhkbdban6yaz9aaacwl&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+                >Electronics</a
+              >
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text padding="10px 0px" align="center">
+              <a
+                class="menu"
+                href="https://www.walmart.com/cp/home/4044?adid=35436uuha6dh72ifrkybd&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+                >Home</a
+              >
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text padding="10px 0px" align="center">
+              <a
+                class="menu"
+                href="https://www.walmart.com/cp/clothing/5438?adid=b0k7nc2hcbazxi9y8rv47&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+                >Fashion</a
+              >
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text padding="10px 0px" align="center">
+              <a
+                class="menu"
+                href="https://www.walmart.com/cp/baby-products/5427?adid=wtoayuu562s5yd0mrex39&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+                >Baby</a
+              >
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text padding="10px 0px" align="center">
+              <a
+                class="menu"
+                href="https://www.walmart.com/cp/toys/4171?adid=7t61zxxfatdfzgm2hwitn&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+                >Toys</a
+              >
+            </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-text padding="10px 0px" align="center">
+              <a
+                class="menu"
+                href="https://www.walmart.com/all-departments?adid=gc256dhj10ort6bh0igcv&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+                >See All</a
+              >
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #HERO -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          href="https://www.walmart.com/shop/savings?adid=a1sm4gohige0gzzitrlib&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+          padding="0px"
+          src="https://exclusivecutz.com/walmart/hero.jpg"
+          alt="Kaboom savings"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #ALL-YOU-LOVE -->
+    <mj-section padding="40px 0 20px 0" background-color="#fff">
+      <mj-column>
+        <mj-text
+          color="#22194d"
+          font-size="32px"
+          line-height="20px"
+          align="center"
+        >
+          All you love, for less
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- #SALES-ITEMS -->
+    <mj-wrapper padding="0px" background-color="#fff">
+      <mj-section padding="0px">
+        <mj-group css-class="sales">
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/electronics?adid=conh5qt3irjn2joyivysh&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400905&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/laptop.jpg"
+              alt="laptop"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/electronics?adid=conh5qt3irjn2joyivysh&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400905&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/cloth.jpg"
+              alt="clothing"
+            />
+          </mj-column>
+        </mj-group>
+        <mj-group css-class="sales">
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/electronics?adid=conh5qt3irjn2joyivysh&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400905&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/grill.jpg"
+              alt="grill"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/electronics?adid=conh5qt3irjn2joyivysh&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400905&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/perfume.jpg"
+              alt="perfume"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <mj-section padding="0px">
+        <mj-group css-class="sales">
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/all-home/kitchen-and-dining?adid=rht7d3qojknese7oh8vs3&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400914&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/coffee.jpg"
+              alt="coffee"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/all-home/furniture?adid=sfvqz2bkun9lm9dhdxvn5&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400915&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/sofa.jpg"
+              alt="sofa"
+            />
+          </mj-column>
+        </mj-group>
+        <mj-group css-class="sales">
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/sports-and-outdoors?adid=xpj6o2h2dno746i5xokln&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400916&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/basketball.jpg"
+              alt="basketball"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              padding="0px"
+              href="https://www.walmart.com/shop/deals/toys?adid=n0f006mq5j2814zbc02ux&mi_u=df7ed15ffd539e11da400088fb07a176&mi_ecmp=342799e3-94ce-4d4a-84b4-d36ca795e12a&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&mi_cmp=63814bee6d961693_11400917&mi_sc=t"
+              src="https://exclusivecutz.com/walmart/lego.jpg"
+              alt="lego"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #ALWAYS-ON-BUDGET-TEXT -->
+    <mj-section background-color="#fff" padding="40px 0px 20px">
+      <mj-column>
+        <mj-text
+          color="#22194d"
+          font-size="32px"
+          line-height="20px"
+          align="center"
+        >
+          Always on budget
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- #PRICES -->
+    <mj-wrapper padding="0 0 40px 0" background-color="#fff">
+      <mj-section padding="0">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="0px 5px "
+              src="https://exclusivecutz.com/walmart/ten.jpg"
+              alt="ten and under"
+              href="https://www.walmart.com/shop/savings?adid=wbm61tv0legsqn2oum8qs&max_price=10&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            />
+            <mj-text align="center"> $10 & under > </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-image
+              width="250px"
+              padding="0px 5px"
+              src="https://exclusivecutz.com/walmart/twenty-five.jpg"
+              alt="twenty five and under"
+              href="https://www.walmart.com/shop/savings?adid=wbm61tv0legsqn2oum8qs&max_price=10&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            />
+            <mj-text align="center"> $25 & under > </mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group>
+          <mj-column>
+            <mj-image
+              width="250px"
+              padding="0px 5px"
+              src="https://exclusivecutz.com/walmart/fifty.jpg"
+              alt="fifty and under"
+              href="https://www.walmart.com/shop/savings?adid=br8nnuxa6vultabcw1vmo&max_price=50&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            />
+            <mj-text align="center"> $50 & under > </mj-text>
+          </mj-column>
+          <mj-column>
+            <mj-image
+              width="250px"
+              padding="0px 5px"
+              src="https://exclusivecutz.com/walmart/one-hundred.jpg"
+              alt="one hundred and under"
+              href="https://www.walmart.com/shop/savings?adid=9mzmiq5bqgusw4mxn49wi&max_price=100&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            />
+            <mj-text align="center"> $100 & under > </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #CHEETOS -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/walmart/hot-cheetos-row.jpg"
+          alt="Summer Savings"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #SAVE-EVEN-MORE -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text
+          color="#22194d"
+          font-size="32px"
+          line-height="20px"
+          align="center"
+        >
+          Save even more
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- #MORE-SAVING-ITEMS -->
+    <mj-wrapper padding="0px">
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/pets.jpg"
+            href="https://www.walmart.com/shop/deals/pets?adid=uxkgj3kqmo6nwob439u1q&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="pets item"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/scroller.jpg"
+            href="https://www.walmart.com/shop/deals/baby?adid=opwm4bmwna7ovlk8temmp&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="scroller"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/personal-care.jpg"
+            href="https://www.walmart.com/shop/deals/wellness-and-personal-care?adid=vp54lyppiogf29mhgysrx&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="personal care"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/auto.jpg"
+            href="https://www.walmart.com/shop/deals/auto?adid=lv992he4zm2of6vxjj58d&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="auto"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/video-games.jpg"
+            href="https://www.walmart.com/shop/deals/video-games?adid=ic0042rvhpzgiior0whfi&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="video games"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/household-essentials.jpg"
+            href="https://www.walmart.com/shop/deals/household-essentials?adid=qqtdkkffl9sr8n0x4606e&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="household essentials"
+          />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#fff" padding="0px">
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/home-improvement.jpg"
+            href="https://www.walmart.com/shop/deals/home-improvement?adid=lklpjxqh773nvnrotcbb4&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="home improvements"
+          />
+        </mj-column>
+        <mj-column>
+          <mj-image
+            padding="0px 10px"
+            src="https://exclusivecutz.com/walmart/floor-care.jpg"
+            href="https://www.walmart.com/shop/deals/all-home/floor-care?adid=ngdcss6zmyp4spmojvyga&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            alt="floor care"
+          />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #DEAL -->
+    <mj-section padding="30px 0px" css-class="deals" background-color="#fff">
+      <mj-column>
+        <mj-image
+          padding="0px"
+          src="https://exclusivecutz.com/walmart/deals.jpg"
+          href="https://www.walmart.com/shop/deals?adid=rk0sq2fad302pdpz3kt7c&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+          alt="Deals"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #SOCIAL-APPS -->
+    <mj-wrapper padding="0px">
+      <mj-section padding="0px" background-color="#fff">
+        <mj-group>
+          <mj-column>
+            <mj-image
+              padding="15px "
+              width="150px"
+              align="left"
+              src="https://exclusivecutz.com/walmart/mobile-apps.jpg"
+              href="https://www.walmart.com/cp/walmart-mobile-app/1087865?is_retargeting=true&veh=eml&c=W-FY18Q4-Email-BTH-O-DG-General-AppDLFooter-BOTH-NA-NA&pid=Email&adid=le14gxf4zmye9dl5flskz&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+              alt=" mobile apps"
+            />
+          </mj-column>
+
+          <mj-column>
+            <mj-image
+              align="right"
+              width="32px"
+              padding="15px 0px"
+              src="https://exclusivecutz.com/walmart/fb.png"
+              href="https://www.facebook.com/walmart?adid=946p42g0nkcyke4s2jyho&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+              alt="facebook"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              align="right"
+              width="32px"
+              padding="15px 0px"
+              src="https://exclusivecutz.com/walmart/pint.png"
+              href="https://www.pinterest.com/walmart/?adid=dmd1haksopd6zactgn8tp&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N&veh=eml"
+              alt="pinterest"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              align="right"
+              width="32px"
+              padding="15px 0px"
+              src="https://exclusivecutz.com/walmart/x.png"
+              href="https://x.com/Walmart?adid=vjya4yiyvuo3m08023rpd&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+              alt="x - twitter"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              align="right"
+              width="32px"
+              padding="15px 0px"
+              src="https://exclusivecutz.com/walmart/yt.png"
+              href="https://www.youtube.com/walmart"
+              alt="youtube"
+            />
+          </mj-column>
+          <mj-column>
+            <mj-image
+              align="right"
+              width="32px"
+              padding="15px 10px"
+              src="https://exclusivecutz.com/walmart/insta.png"
+              href="https://www.instagram.com/walmart?adid=6py9mekmj65ada41my0hy&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+              alt="instagram"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+    </mj-wrapper>
+
+    <!-- #LAST-UPDATED -->
+    <mj-section padding="0px">
+      <mj-column>
+        <mj-image
+          src="https://exclusivecutz.com/walmart/last-updated.jpg"
+          alt="last updated row"
+          padding="0"
+        />
+      </mj-column>
+    </mj-section>
+
+    <!-- #TERMS AND CONDITIONS -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text line-height="20px" font-size="14px">
+          *Terms & restrictions apply. Please note that product availability is
+          limited and prices are subject to change.<br /><br />
+          Do not reply to this email. The inbox is not monitored. If you require
+          assistance, please
+          <a
+            class="footer__link"
+            href="https://www.walmart.com/help?adid=c59q1cp6xgpy6t9l9s5tz&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            >click here for help</a
+          >.<br /><br />
+
+          <span>Unsubscribe</span><br />
+          This email is a Walmart advertisement. If you do not want to receive
+          these email updates, click here to
+          <a
+            class="footer__link"
+            href="https://mail.google.com/mail/u/0/#search/walmart/FMfcgzQVxHjdgjntsfPVmHNNsVSsVXnM"
+            >unsubscribe</a
+          >.<br /><br />
+          <span>Security & Privacy</span> <br />
+          Walmart protects your security and privacy. We will never ask for
+          personal information (such as passwords or credit card numbers) in an
+          email newsletter. If you receive such a request, please do not respond
+          to the email.
+          <a
+            class="footer__link"
+            href="https://corporate.walmart.com/privacy-security/stay-secure-online-cybersecurity-hygiene?adid=mmvq776xeckz8llnajr7p&veh=eml&cn=BAT-062424-EML-XCT-SVL-ENG-02-1A-JULY4-Sparks-B-NA-L-N"
+            >Learn more</a
+          >. See our
+          <a
+            class="footer__link"
+            href="https://corporate.walmart.com/privacy-security/walmart-privacy-notice"
+            >Privacy Policy</a
+          >.<br /><br />
+          Email Marketing, Walmart.com, 850 Cherry Avenue, San Bruno CA 94066<br /><br />
+          © 2024 Walmart.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
